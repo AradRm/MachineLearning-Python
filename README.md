@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! 👋 I'm [Your Name], and I'm delighted to welcome you to my GitHub profile. Here's a little bit about me and my interests in the field of computer vision and artificial intelligence.
+Hello there! 👋 I'm [Arad rahmani], and I'm delighted to welcome you to my GitHub profile. Here's a little bit about me and my interests in the field of computer vision and artificial intelligence.
 
 ## Passionate about Computer Vision
 
