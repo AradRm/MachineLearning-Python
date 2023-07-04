@@ -22,6 +22,4 @@ Thank you for taking the time to visit my profile. I look forward to engaging wi
 
 ---
 
-[Insert QR Code Image Here]
-
-[Add additional contact details if desired: email/website/social media handles]
+![Qrcode](https://github.com/AradRm/MachineLearning-Python/blob/8ebf79cd96c994aba9a6cf3e5b6fd9c3fc8de3dd/download%20(1).png)
